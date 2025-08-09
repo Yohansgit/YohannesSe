@@ -43,7 +43,7 @@ I enjoy working in fast-paced, collaborative environments where I can:
     </td>
     <td>
 
-![Developer at Work](https://cdn-icons-png.flaticon.com/512/1006/1006552.png){ width=250px }
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006552.png" width="250" alt="Developer at Work" />
 
     </td>
   </tr>
