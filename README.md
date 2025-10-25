@@ -4,18 +4,18 @@
 
 ## 👋 Hi, I'm Yohannes Setotaw
 
-💡 **Results-driven Business Intelligence Developer and Data Science Analyst**  
+💡 **Data Science Analyst**  
 Helping organizations unlock the full potential of their **data assets** through cloud-native solutions, advanced analytics, and automation.
 
 ---
 
 ## 🚀 About Me  
 I enjoy working in fast-paced, collaborative environments where I can:  
-- 🔄 Automate workflows and streamline data pipelines  
+- 🔄 Deploy Python-based ML models to automate workflows  
 - 📊 Tackle complex data challenges with cutting-edge analytics  
-- 📈 Deliver measurable impact across industries like healthcare, manufacturing, and marketing  
+- 📈 Deliver measurable impact across industries like healthcare, and marketing  
 
-**Career Goal:** Contribute to diverse industries by building data-driven systems that empower better decision-making.
+**Career Goal:** Contribute to building data-driven systems that empower better decision-making.
 
 ---
 
